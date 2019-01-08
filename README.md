@@ -1,5 +1,5 @@
 # Unfx Proxy Parser
-Unfx Proxy Parser - Open source proxy parser / grabber with links crawling.
+Unfx Proxy Parser - Open source proxy parser (grabber) with links crawling build on Electron with React/Redux/Postcss. **Rewritten old v1.3.0 BETA**
 
 With configured hot module replacement. You can use this as electron-react-redux-postcss [template](https://github.com/assnctr/hot-electron-react-redux-postcss).
 
