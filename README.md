@@ -5,20 +5,21 @@ With configured hot module replacement. You can use this as electron-react-redux
 
 Download latest build [here](https://github.com/assnctr/unfx-proxy-parser/releases).
 
-![](https://i.ibb.co/TRMR5P5/1prsr2-0-0.png)
-![](https://i.ibb.co/DgGqX4d/3prsr2-0-0.png)
+![](https://i.ibb.co/YhNLCtH/1prsr2-0-0.png)
+![](https://i.ibb.co/GVtW5Dg/3prsr2-0-0.png)
 
 ## Features
 - Parsing from sites with tables
 - Parsing from primitive sites
-- Deep links crawling
-- Follow third-party links
 - Sorting proxies by countries
+- `Deep` - Allow to follow links
+- `External` - Allow to follow third-party domains
+- `Retry` - Retries crawl/parse if been received bad response
 
 ## Results
 Saving proxies in `ip` : `port` format.
 
-**NOTE:** `Double click` - select/deselect all.
+**NOTE:** `Double click` - select/deselect all countries.
 
 ## Updates
 Auto checking at updates and notification is latest version available.
