@@ -19,7 +19,9 @@ Download latest build [here](https://github.com/assnctr/unfx-proxy-parser/releas
 ## Results
 Saving proxies in `ip` : `port` format.
 
-**NOTE:** `Double click` - select/deselect all countries.
+**NOTE:**
+
+`Double click` - select/deselect all countries.
 
 ## Updates
 Auto checking at updates and notification is latest version available.
