@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/5RFQkm6/hierarchy-levels.png">
+    <img width="64px" src="https://i.ibb.co/5RFQkm6/hierarchy-levels.png">
 </p>
 
 ![](https://i.ibb.co/YhNLCtH/1prsr2-0-0.png)
