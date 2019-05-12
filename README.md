@@ -23,22 +23,12 @@ Saving proxies in `ip` : `port` format.
 ## Updates
 Automatically checking for updates and notification if the latest version is available.
 
-## Support 💖 
-Support please my efforts and this tool if you really 👍 it.
-
-Donation:
-- BTC: `16eS4hfgKHKQcPYPeN1VdSge8yfC4YtftT`
-- ETH: `0xd5bd9af4cf9c60bc8a8f95baff63c829b90db3dd`
-- PayPal: ***trollplacez@gmail.com***
-
-<a href='https://ko-fi.com/assnctr' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  
-[<img width="143px" src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/bePatron?u=11702471)
-
 ## Open Proxy Space Resource
-- [Open Proxy Space](https://openproxy.space) - The distant proxy galaxy. Open source proxy tools and free daily proxy lists, all here.
-- [Open Public Proxy Lists](https://openproxy.space/lists/) - Latest open proxy lists database. Upload and share your own proxy list, make public or private. Daily fresh proxy lists uploads here.
-- [Proxy List](https://openproxy.space/proxy-list/) - Online real-time updated proxy list.
-- [API](https://openproxy.space/api) - API Reference.
+- [Open Proxy Space](https://openproxy.space)
+- [Public Proxy Lists](https://openproxy.space/lists/)
+- [Buy Proxies](https://openproxy.space/darth)
+- [Free Proxy List](https://openproxy.space/free-proxy-list)
+- [Proxy Filter](https://openproxy.space/filter)
 
 ## Unfx Proxy Tools
 - [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) - Powerful proxy checker with huge features and beautiful design. Easy sorting and filtering by all parameters.
