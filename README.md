@@ -31,12 +31,12 @@ Automatically checking for updates and notification if the latest version is ava
 - [Proxy Filter](https://openproxy.space/filter)
 
 ## Utilify
-- [Password Generator](https://utilify.space/password-generator)
-- [Hash Generator](https://utilify.space/hash-generator)
-- [Remove Duplicates](https://utilify.space/remove-duplicates)
-- [Randomize Lines](https://utilify.space/randomize-lines)
-- [Github Release Stats](https://utilify.space/github-release-stats)
-- [Hide Referrer](https://utilify.space/hide-referrer)
+- [Password Generator](https://utilify.me/password-generator)
+- [Hash Generator](https://utilify.me/hash-generator)
+- [Remove Duplicates](https://utilify.me/remove-duplicates)
+- [Randomize Lines](https://utilify.me/randomize-lines)
+- [Github Release Stats](https://utilify.me/github-release-stats)
+- [Hide Referrer](https://utilify.me/hide-referrer)
 
 ## Unfx Proxy Tools
 - [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) - Powerful proxy checker with huge features and beautiful design. Easy sorting and filtering by all parameters.
