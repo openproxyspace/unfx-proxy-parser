@@ -23,20 +23,8 @@ Saving proxies in `ip` : `port` format.
 ## Updates
 Automatically checking for updates and notification if the latest version is available.
 
-## Open Proxy Space
-- [Open Proxy Space](https://openproxy.space)
-- [Public Proxy Lists](https://openproxy.space/lists/)
-- [Buy Proxies](https://openproxy.space/darth)
-- [Free Proxy List](https://openproxy.space/free-proxy-list)
-- [Proxy Filter](https://openproxy.space/filter)
-
 ## Utilify
-- [Password Generator](https://utilify.me/password-generator)
-- [Hash Generator](https://utilify.me/hash-generator)
-- [Remove Duplicates](https://utilify.me/remove-duplicates)
-- [Randomize Lines](https://utilify.me/randomize-lines)
-- [Github Release Stats](https://utilify.me/github-release-stats)
-- [Hide Referrer](https://utilify.me/hide-referrer)
+https://utilify.me/ - The house of online utilities.
 
 ## Unfx Proxy Tools
 - [Unfx Proxy Checker](https://openproxy.space/software/proxy-checker) - Powerful proxy checker with huge features and beautiful design. Easy sorting and filtering by all parameters.
