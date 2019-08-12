@@ -29,6 +29,3 @@ Automatically checking for updates and notification if the latest version is ava
 
 ## Utilify
 https://utilify.me/ - The house of online utilities.
-
-## IP Location database
-This product includes GeoLite2 data created by MaxMind, available [here](https://dev.maxmind.com/geoip/geoip2/geolite2/).
