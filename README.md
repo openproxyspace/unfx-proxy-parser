@@ -23,6 +23,10 @@ Saving proxies in `ip` : `port` format.
 ## Updates
 Automatically checking for updates and notification if the latest version is available.
 
+## Open Proxy Space
+[Free Proxy List](https://openproxy.space/free-proxy-list).  
+[Buy Proxy List](https://openproxy.space/darth).
+
 ## Utilify
 https://utilify.me/ - The house of online utilities.
 
