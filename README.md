@@ -23,20 +23,9 @@ Saving proxies in `ip` : `port` format.
 ## Updates
 Automatically checking for updates and notification if the latest version is available.
 
-## Support 💖
-Thank you all for supporting my efforts.
+#### Open Proxy Space
+[Premium](https://openproxy.space/premium) - Buy Proxy List  
+[Free Proxy List](https://openproxy.space/list) - Always Updated Proxy Lists
 
-Donation:
-- BTC: `16eS4hfgKHKQcPYPeN1VdSge8yfC4YtftT`
-- ETH: `0xd5bd9af4cf9c60bc8a8f95baff63c829b90db3dd`
-
-[![Beerpay](https://beerpay.io/assnctr/unfx-proxy-parser/badge.svg?style=beer-square)](https://beerpay.io/assnctr/unfx-proxy-parser)  [![Beerpay](https://beerpay.io/assnctr/unfx-proxy-parser/make-wish.svg?style=flat-square)](https://beerpay.io/assnctr/unfx-proxy-parser?focus=wish)  
-Or you can become a [patron](https://www.patreon.com/openproxyspace).  
-
-## Openproxy.space resource:
-* [Open Proxy Space](https://openproxy.space) - It's Largest open proxy list database. Our proxy list updated in real-time.
-* [Daily Proxy Lists](https://openproxy.space/lists/) - Daily updated proxy lists archive. Dump from database. Sorted by protocols.
-* [API](https://openproxy.space/api) - Openproxy api. Build own app based on our open proxy space.
-
-## IP Location database
-This product includes GeoLite2 data created by MaxMind, available [here](https://dev.maxmind.com/geoip/geoip2/geolite2/).
+## Utilify
+https://utilify.me/ - The house of online utilities.
