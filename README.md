@@ -26,6 +26,3 @@ Automatically checking for updates and notification if the latest version is ava
 #### Open Proxy Space
 [Premium](https://openproxy.space/premium) - Buy Proxy List  
 [Free Proxy List](https://openproxy.space/list) - Always Updated Proxy Lists
-
-## Utilify
-https://utilify.me/ - The house of online utilities.
